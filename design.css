@@ -4,7 +4,8 @@
 }
 body{
   font-family: Arial;
-  background-image: url('background.jpg');
+}
+body .background{
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
